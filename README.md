@@ -1,2 +1,2 @@
 # farhan
-Personal weebsite
+Personal website
