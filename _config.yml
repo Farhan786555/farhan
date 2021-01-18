@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "BlogInn"
+title: "Farhan"
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: "BlogInn is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
 
 # Tagline near the site title
-tagline: "Thoughts, stories and ideas."
+tagline: "Pirate, code, and rum."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -38,10 +38,10 @@ navigation:
 disqus:
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
-author_url:  "http://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
+author_name: "Farhan Shakeel"
+author_bio: "I'm a web developer.I build websites that delight and inform. I do it well."
+author_url:  "https://farhan786555.github.io/farhan/"
+author_location: "Hyderabad, India"
 author_image: /images/authorimage.png
 
 # Sidebar Add banner

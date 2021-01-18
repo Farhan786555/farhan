@@ -1,2 +1,2 @@
-# farhan
+# Farhan
 Personal website
