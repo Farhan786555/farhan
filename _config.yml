@@ -26,13 +26,13 @@ url: "https://farhan786555.github.io/farhan/"
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /
+  url: /farhan
 - text: About
-  url: /about/
+  url: /farhan/about/
 - text: Style Guides
-  url: /style-guide/
+  url: /farhan/style-guide/
 - text: Archives
-  url: /tags/
+  url: /farhan/tags/
 
 # The shortname for your Disqus site to enable comments.
 disqus:
