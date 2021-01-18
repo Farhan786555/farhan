@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://justgoodthemes.com"
+url: "https://farhan786555.github.io/farhan/"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -45,21 +45,21 @@ author_location: "Hyderabad, India"
 author_image: /images/authorimage.png
 
 # Sidebar Add banner
-banner_url: "http://justgoodthemes.com"
+banner_url: "https://farhan786555.github.io/farhan/"
 banner_image: images/banner.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+mailchimp_url: ""
 
 # Social links in the site footer
 twitter_username: "username"
 facebook_username: "username"
 googleplus_username: "+username"
-github_username: "username"
+github_username: "farhan786555"
 codepen_username: "username"
 dribbble_uername: "username"
 medium_username: "@username"
-instagram_username: "username"
+instagram_username: "ultimate_pirate786"
 pinterest_username: "username"
 linkedin_username: "username"
 
